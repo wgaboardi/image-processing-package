@@ -2,26 +2,26 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- processing mixing of images
+	- histogram of images
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install imagem_processing_wlg
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from imagem_processing_wlg.processing import combination
+from imagem_processing_wlg.processing import transformation
 ```
 
 ## Author
-My_name
+WLG
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
