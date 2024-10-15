@@ -7,11 +7,11 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
-    version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    name="imagem_processing_wlg",
+    version="1.0.0",
+    author="Wellington",
+    author_email="wgaboardi@gmailll.com",
+    description="Functions for image processing",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/wgaboardi/image-processing-package",
