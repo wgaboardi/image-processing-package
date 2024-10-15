@@ -1,4 +1,4 @@
-# package_name
+# Imagem_processing_wlg
 
 Description. 
 The package package_name is used to:
